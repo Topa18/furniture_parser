@@ -105,6 +105,5 @@ def main(url):
     get_sneakers_from_page()
 
 
-if __name__ == "__main__":
-    main("https://street-beat.ru/cat/man/obuv/krossovki/")
+main("https://street-beat.ru/cat/man/obuv/krossovki/")
     
