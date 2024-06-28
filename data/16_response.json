@@ -1,0 +1,3040 @@
+{
+    "catalog": {
+        "listing": {
+            "items": [
+                {
+                    "url": "/d/krossovki-puma-38485801/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/d7d/tyfb35wpa0xgxvqpkx23lm7txz67d3gn.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/f0d/h660bjsvqju2nuri3nnfi7e3brwe64et.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/357/bbxnbol14zvajopdxw9jc0dkxik7eoyx.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/12b/89pdhjnyz2ojg51f8sotg93n7o052kgh.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36,5",
+                                    "eu": "37,5",
+                                    "us": "7",
+                                    "sm": "23,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7,5",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37,5",
+                                    "eu": "38,5",
+                                    "us": "8",
+                                    "sm": "24,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39,5",
+                                    "eu": "40,5",
+                                    "us": "9,5",
+                                    "sm": "26"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38485801",
+                    "color": "Разноцветный",
+                    "category": "Женщины/Кроссовки/PUMA/Kosmo Rider",
+                    "type": "product",
+                    "id": 4191466,
+                    "title": "Женские кроссовки PUMA Kosmo Rider"
+                },
+                {
+                    "url": "/d/krossovki-puma-38408302/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/37d/eiykzsd86n56niiyb4zi55wvfj2b7u2x.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/dc8/a0qkdpmdrh2jtz2ynbhicw6brioiy5p6.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/fa0/gsv725kjk0aepyyiqo5bjjlba60bzurt.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/299/r7xb954l22qg02abu229u0t9jxa7l700.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "37",
+                                    "us": "6,5",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36,5",
+                                    "eu": "37,5",
+                                    "us": "7",
+                                    "sm": "23,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38408302",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/PUMA/Orkid",
+                    "type": "product",
+                    "id": 4195096,
+                    "title": "Женские кроссовки PUMA Orkid "
+                },
+                {
+                    "url": "/d/krossovki-puma-38864102/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/608/08mqf3tzo8w54mqccmjytljjp8fg4ree.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/39d/ba9tybr91d1lmbk15l0qmtx4bpt97kln.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/c8d/g1iz37zvpctvjn23lc5ena2u8l31bye7.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/318/c26dht8vi7v2ex0u4czmtjhogkn7y0a0.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "39,5",
+                                    "eu": "40,5",
+                                    "us": "8",
+                                    "sm": "26"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "41",
+                                    "eu": "42",
+                                    "us": "9",
+                                    "sm": "27"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "43",
+                                    "eu": "44",
+                                    "us": "10,5",
+                                    "sm": "28,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "43,5",
+                                    "eu": "44,5",
+                                    "us": "11",
+                                    "sm": "29"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38864102",
+                    "color": "Бежевый",
+                    "category": "Унисекс/Кроссовки/PUMA/Slipstream",
+                    "type": "product",
+                    "id": 4215044,
+                    "title": "Кроссовки PUMA Slipstream Hi Lux"
+                },
+                {
+                    "url": "/d/krossovki-reebok-hq2126/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/e8e/lx7wrpwybu04m5lmnvfxtmavcmt8n4dw.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/3bf/tsrefaa137297ba4imktde6zgwrk4pap.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/c6d/5d6ega5b2p7zp0bttr5l9utf8hbro9cz.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/668/es5uuhvdq8ldxohdatd22o0wpwbrl1o2.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 11999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 5999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "35,5",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "37",
+                                    "us": "6,5",
+                                    "sm": "23,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Reebok",
+                    "skuCode": "HQ2126",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/Reebok/Extra",
+                    "type": "product",
+                    "id": 4221744,
+                    "title": "Женские кроссовки Reebok Club C Extra"
+                },
+                {
+                    "url": "/d/krossovki-new_balance-w5740esa/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/dd9/1364onhejsui09hpajsp6hov1o5mbpu2.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/862/bqljagjjh5u8q8m86eouonay9m66cl6k.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/4b9/121bz5k07fza7c57wf4wvmuxftjcs9ba.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/a93/pahc82bpq31oetk0r1pc9099o61y1w17.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 18999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 9499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "New Balance",
+                    "skuCode": "W5740ESA",
+                    "color": "Серый",
+                    "category": "Женщины/Кроссовки/New Balance/5740",
+                    "type": "product",
+                    "id": 4228000,
+                    "title": "Женские кроссовки New Balance 5740"
+                },
+                {
+                    "url": "/d/krossovki-asics-1201a476-101/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/bbf/c4qat7c16yi0wqnjhwgbdk8p8y1f3rgp.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/ecb/llagfqyndeeoi1zzevd62gbizkdi2es0.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/deb/dbr4fkg7kpmn94ukrsci7mycam6ni150.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/191/vn0ffm62zsrelsn3ndfrvfs8ttxf4hjg.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 17999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 8999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "4",
+                                    "sm": "22,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "ASICS",
+                    "skuCode": "1201A476-101",
+                    "color": "Белый",
+                    "category": "Унисекс/Кроссовки/ASICS/EX89",
+                    "type": "product",
+                    "id": 4229948,
+                    "title": "Кроссовки ASICS EX89"
+                },
+                {
+                    "url": "/d/krossovki-puma-38446301/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/598/6oegiva9yzwkt9qybqu7znsjn8zpdovz.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/45b/woctispdofnzscvvefap6nzmwkt6bvxq.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/77a/ul7ek0pzbs9w595wyv2o0pfiuwnqti3h.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/939/9gsot479sggel22126l1a352zdphinge.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 11999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 5999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "37",
+                                    "us": "6,5",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7,5",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37,5",
+                                    "eu": "38,5",
+                                    "us": "8",
+                                    "sm": "24,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "38",
+                                    "eu": "39",
+                                    "us": "8,5",
+                                    "sm": "25"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38446301",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/PUMA/Cali",
+                    "type": "product",
+                    "id": 4231614,
+                    "title": "Женские кроссовки PUMA Cali Dream RE:Collection"
+                },
+                {
+                    "url": "/d/krossovki-reebok-ie1595/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/8f2/9hcgovmv1femr7nja7kw6dmpuk349p2d.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/e81/35193u9pk8omq2lg18au9r3m2ecdx1lk.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/1cb/ld2q0igdfd9bgt97gvs3msizr44irke7.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/098/ueb7cj792wypfl7y90yu2nu65s51rc7o.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 13499.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6699.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "35,5",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Reebok",
+                    "skuCode": "IE1595",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/Reebok/Club C 85",
+                    "type": "product",
+                    "id": 4240150,
+                    "title": "Женские кроссовки Reebok Club C 85 Vintage"
+                },
+                {
+                    "url": "/d/krossovki-adidas-originals-gy4110/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/313/qz9flu6x9b9mt1q8fgchbea9ipi14bis.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/840/7991oxe3uq2sen559v7x9vkln9ghuni5.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/c9a/vn9jya0krp95jcsro1slp280415knsnr.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/fd3/l0ho8q5ku209n2wnfej668k1rlz7pra6.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 18999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 11399.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "36",
+                                    "us": "4",
+                                    "sm": "22"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36,5",
+                                    "us": "4,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "5,5",
+                                    "sm": "23,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "38,5",
+                                    "eu": "40",
+                                    "us": "7",
+                                    "sm": "25"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 40%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "adidas",
+                    "skuCode": "GY4110",
+                    "color": "Зеленый",
+                    "category": "Унисекс/Кроссовки/adidas",
+                    "type": "product",
+                    "id": 4246290,
+                    "title": "Кроссовки adidas Yeezy 450 "
+                },
+                {
+                    "url": "/d/krossovki-nike-fb1298-600/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/85b/33vr6p38ketdbtr64mui6izhi8jnk4gm.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/fcc/u7rwovxfql98n1odsuuwzwblkdqq2xma.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/95a/lgu2gw3kcx2rokgje2ml3dyweeuy38dc.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/e88/yupx10o1aje0iv9aylsvyuufmm6akidy.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 14999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 7499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "36,5",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7",
+                                    "sm": "24"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Nike",
+                    "skuCode": "FB1298-600",
+                    "color": "Розовый",
+                    "category": "Женщины/Кроссовки/Nike/Waffle",
+                    "type": "product",
+                    "id": 4262478,
+                    "title": "Женские кроссовки Nike Waffle One Essential"
+                },
+                {
+                    "url": "/d/krossovki-street-beat-snkw20021-100/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/3b0/dmz8kdwq0hasz5opyxdg7tkk9zbxijap.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/3f8/v7ekuomwfjevz4xenzvr6p0f5155ca5d.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/77c/aq1wixjdg6mqez9rk8hihd0hdustykz8.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/3de/ri5ngslh865brjpkdhy92pw6whtrcnmm.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 7499.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 3699.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36",
+                                    "us": "4,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39",
+                                    "eu": "39",
+                                    "us": "7",
+                                    "sm": "24,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "40",
+                                    "eu": "40",
+                                    "us": "7,5",
+                                    "sm": "25"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "41",
+                                    "eu": "41",
+                                    "us": "8,5",
+                                    "sm": "25,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 51%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "STREETBEAT",
+                    "skuCode": "SNKW20021-100",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/STREETBEAT/Atlanta",
+                    "type": "product",
+                    "id": 4262564,
+                    "title": "Женские кроссовки STREETBEAT Atlanta"
+                },
+                {
+                    "url": "/d/krossovki-puma-38985301/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/2aa/wdbl5zg8g5pq5lsyfym036ohpruby0y7.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/eac/dhllbx8b6k10f3fyro8rn4ybd1k7i3kg.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/26d/94im64mfdxm30466vp3pf91rn0tc3tq5.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/e4a/9qp0nx3icj94vtr3jkf4to2z2fkxs8w5.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7,5",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37,5",
+                                    "eu": "38,5",
+                                    "us": "8",
+                                    "sm": "24,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39",
+                                    "eu": "40",
+                                    "us": "9",
+                                    "sm": "25,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39,5",
+                                    "eu": "40,5",
+                                    "us": "9,5",
+                                    "sm": "26"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38985301",
+                    "color": "Бежевый",
+                    "category": "Женщины/Кроссовки/PUMA/Mayze",
+                    "type": "product",
+                    "id": 4284536,
+                    "title": "Женские кроссовки PUMA Mayze Stack "
+                },
+                {
+                    "url": "/d/krossovki-nike-dq7572-200/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/757/a9r3htlu13gh7d8zgv41e5hp6l7knpf3.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/f34/xhom06ewvriaq3im41kr7fcia0xv2ypq.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/fc6/ua6hxpmb51iqogo0x2fspwqpc4ta7l9h.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/218/j7sf782xpjp07vbrsw01ahfdivax5inh.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 18999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 9499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "36,5",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36,5",
+                                    "eu": "37,5",
+                                    "us": "6,5",
+                                    "sm": "23,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "40",
+                                    "eu": "41",
+                                    "us": "9,5",
+                                    "sm": "26,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Nike",
+                    "skuCode": "DQ7572-200",
+                    "color": "Бежевый",
+                    "category": "Женщины/Кроссовки/Nike/Blazer",
+                    "type": "product",
+                    "id": 4306070,
+                    "title": "Женские кроссовки Nike Blazer Mid Premium"
+                },
+                {
+                    "url": "/d/krossovki-puma-39077604/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/386/xyom512t0kt333wo6w3hkug881mm79uy.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/c7d/m9e9jq7ds21ax5hmv7uqhc4rjof30mqt.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/595/tj1lkpzrgz0k344ahp2n5jueymi0h4jz.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/cdf/11dqqvsvoz2wd9gci4m7qx2b7gkvkmb2.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 15999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 7999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "4,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "37",
+                                    "us": "5",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36,5",
+                                    "eu": "37,5",
+                                    "us": "5,5",
+                                    "sm": "23,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "6",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39",
+                                    "eu": "40",
+                                    "us": "7,5",
+                                    "sm": "25,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "39077604",
+                    "color": "Бежевый",
+                    "category": "Унисекс/Кроссовки/PUMA/RS-X",
+                    "type": "product",
+                    "id": 4307756,
+                    "title": "Кроссовки PUMA RS-X Efekt"
+                },
+                {
+                    "url": "/d/krossovki-puma-39211101/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/18d/r6j1s1k172tllco8rbmzgt6eexxsajmq.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/e43/pyf2vtawn0v6hp374c0gjj47yokcx75e.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/a3d/5kf07g5u987f2eel7vezxxde581bc4ut.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/ae1/yr29osqkmjxjnt9icprscjg6ga8aopvg.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 15999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 9599.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37",
+                                    "eu": "38",
+                                    "us": "7,5",
+                                    "sm": "24"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 40%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "39211101",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/PUMA/RS-X",
+                    "type": "product",
+                    "id": 4307762,
+                    "title": "Женские кроссовки PUMA RS-X Efekt "
+                },
+                {
+                    "url": "/d/krossovki-reebok-100033105/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/4e0/twb5nh0elbm3kc8and0a3gjxy1133634.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/2e3/whd29spzxn0v20ygvqd3df8lrn2o1el3.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/6aa/k0zl8y31p8gg0l0lzi5f5b5cdtl03v3m.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/224/nwgri9lop7kfgm61js64anjc5th8sfb6.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 13999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "35,5",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "37,5",
+                                    "eu": "37,5",
+                                    "us": "7",
+                                    "sm": "24"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "38",
+                                    "eu": "38",
+                                    "us": "7,5",
+                                    "sm": "24,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "38,5",
+                                    "eu": "38,5",
+                                    "us": "8",
+                                    "sm": "25"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "39",
+                                    "eu": "39",
+                                    "us": "8,5",
+                                    "sm": "25,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "40",
+                                    "eu": "40",
+                                    "us": "9",
+                                    "sm": "26"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Reebok",
+                    "skuCode": "100033105",
+                    "color": "Бежевый",
+                    "category": "Женщины/Кроссовки/Reebok/Extra",
+                    "type": "product",
+                    "id": 4315582,
+                    "title": "Женские кроссовки Reebok Club C Extra"
+                },
+                {
+                    "url": "/d/krossovki-nike-dh5128-101/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/586/zvbrvv68tnw4sak01gto2md8vb87jnez.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/5eb/qyqxs1k9uvivj6s2jclz9blqq3qyt9b4.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/39a/83xhpqinnred89uqhfpgyp5efeupbie4.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/461/y2are4py2y6baak868l2t5vkzyhm4482.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 21999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 10999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "36,5",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Nike",
+                    "skuCode": "DH5128-101",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/Nike/Air Max",
+                    "type": "product",
+                    "id": 4330332,
+                    "title": "Женские кроссовки Nike Air Max Bliss"
+                },
+                {
+                    "url": "/d/krossovki-puma-38069602/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/755/ga9sh2fyd1rc815215pi93mkfzrzz2nq.JPG",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/f60/e1ign1rtow3dikt39ro33tv9lip0mdnw.JPG"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/9bc/43so1yvnvui1jd1lztpkbd22q90gu2p2.JPG",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/8c9/hkg0vugai4co2s5ke6kjtgvnkxffbgcv.JPG"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "42",
+                                    "eu": "43",
+                                    "us": "10",
+                                    "sm": "28"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38069602",
+                    "color": "Черный",
+                    "category": "Унисекс/Кроссовки/PUMA/Mirage",
+                    "type": "product",
+                    "id": 3530376,
+                    "title": "Кроссовки PUMA Mirage Sport"
+                },
+                {
+                    "url": "/d/krossovki-reebok-h68693/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/6b5/uwoamkx49n12qq0k46balaxgfcnih5co.JPG",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/ea3/qj32h0b28ii1913lhdiu6f4bqz0xrdsg.JPG"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/0fb/viqqv91p6d9zread9t59tgb4peewtx93.JPG",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/d51/iaf8emurek1nmpzqht84wdv4tzl05lym.JPG"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 9999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 4999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "35,5",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Reebok",
+                    "skuCode": "H68693",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/Reebok/Club C 85",
+                    "type": "product",
+                    "id": 3576028,
+                    "title": "Женские кроссовки Reebok Club C Revenge"
+                },
+                {
+                    "url": "/d/krossovki-nike-dc2533-002/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/a8a/08ijj83jy8qnyfp65tssfo32cabksego.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/8f4/j621nfprxrjgif4c8oam1hkkdre067hh.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/5fd/8uoq0thtvzkkpnjga43q1s7bhwwfbzz1.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/292/sddzr5a76rua4xkz474k32pteb9h8784.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 12499.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6299.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "Nike",
+                    "skuCode": "DC2533-002",
+                    "color": "Разноцветный",
+                    "category": "Женщины/Кроссовки/Nike/Waffle",
+                    "type": "product",
+                    "id": 3702297,
+                    "title": "Женские кроссовки Nike Waffle One"
+                },
+                {
+                    "url": "/d/krossovki-new_balance-cw997hlv-b/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/2ae/lx4s5f7a3unraxi22ktf6cyzp8fkty0g.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/06c/y5xggz6nax95e9qcpzzbwq22737b5qpi.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/51c/ia4y2tpl8iimxmlxy0cljx477xhs30y9.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/f2d/u3upiqh27vja4z6x9qztjkrjsldaexsz.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 18999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 9499.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "5,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "35,5",
+                                    "eu": "36,5",
+                                    "us": "6",
+                                    "sm": "23"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "New Balance",
+                    "skuCode": "CW997HLV/B",
+                    "color": "Пудровый",
+                    "category": "Женщины/Кроссовки/New Balance/997",
+                    "type": "product",
+                    "id": 3879506,
+                    "title": "Женские кроссовки New Balance 997"
+                },
+                {
+                    "url": "/d/krossovki-puma-38404601/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/3e0/dqg1ev5dbn1kjfujwfekmp6bddy3kn2c.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/411/pyffk0d2wnz6k440pssihn820ab14oxw.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/a6e/hdma56hjdmaen213ioz85oa2y7u3iv21.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/13c/ed1m5hnimqdw7qbid4ymugtql3mo7h2q.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 13499.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 6699.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "6",
+                                    "sm": "22,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 50%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38404601",
+                    "color": "Черно-розовый",
+                    "category": "Женщины/Кроссовки/PUMA/Kosmo Rider",
+                    "type": "product",
+                    "id": 3886170,
+                    "title": "Женские кроссовки PUMA Kosmo Rider"
+                },
+                {
+                    "url": "/d/krossovki-puma-38352602/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/304/j7fn7dd4ejlzcm4v0ezj3ljed7ywyerm.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/491/hf36wpu6rsbr27v1whli17cffsm5zaf6.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/45f/i4rsxmdq7kfhb9823i1onm8psupnp065.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/d64/s92bikw7yuxpkk1aqv558n2v3y8zpk8v.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 17999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 12599.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "35",
+                                    "eu": "36",
+                                    "us": "4,5",
+                                    "sm": "22,5"
+                                }
+                            },
+                            {
+                                "grid": {
+                                    "rus": "36",
+                                    "eu": "37",
+                                    "us": "5",
+                                    "sm": "23"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 30%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "PUMA",
+                    "skuCode": "38352602",
+                    "color": "Бежевый",
+                    "category": "Унисекс/Кроссовки/PUMA/Blaze of Glory",
+                    "type": "product",
+                    "id": 3922834,
+                    "title": "Кроссовки PUMA Blaze of Glory Premium"
+                },
+                {
+                    "url": "/d/krossovki-adidas-originals-h00250/",
+                    "image": {
+                        "main": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/069/xexknw256itovinziekovwzz0tp66qcg.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/139/nzjoemsjzouvw1zzo6eaonfqipwg7220.jpg"
+                        },
+                        "hover": {
+                            "desktop": "https://static.street-beat.ru/upload/iblock/d63/f6879hzm9bjck8jifonj5x1wyn33gpsi.jpg",
+                            "desktopX2": "https://static.street-beat.ru/upload/iblock/e94/s9elmw416hrrybri30h1n68wduixf8vu.jpg"
+                        }
+                    },
+                    "price": {
+                        "recommended": {
+                            "currency": "RUB",
+                            "price": 19999.0
+                        },
+                        "special": {
+                            "currency": "RUB",
+                            "price": 11999.0
+                        }
+                    },
+                    "inUserFavorites": false,
+                    "increased": false,
+                    "specialOffer": false,
+                    "isSoldOut": false,
+                    "preOrder": false,
+                    "saleSoon": {
+                        "active": "N",
+                        "datePrint": [],
+                        "offline": null,
+                        "online": null,
+                        "showTimer": "N",
+                        "startTime": null
+                    },
+                    "sizes": {
+                        "options": [
+                            {
+                                "grid": {
+                                    "rus": "38",
+                                    "eu": "39,5",
+                                    "us": "7,5",
+                                    "sm": "24,5"
+                                }
+                            }
+                        ]
+                    },
+                    "badge": {
+                        "type": "sale",
+                        "text": "Скидка - 40%",
+                        "url": "/cat/woman/sale/"
+                    },
+                    "brand": "adidas",
+                    "skuCode": "H00250",
+                    "color": "Белый",
+                    "category": "Женщины/Кроссовки/adidas/Niteball",
+                    "type": "product",
+                    "id": 4003804,
+                    "title": "Женские кроссовки adidas Niteball"
+                }
+            ],
+            "banners": {
+                "items": [
+                    {
+                        "id": "4426938",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "akciya-noski-march-24_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 1,
+                            "dataCampaignId": "4426938",
+                            "id": "4426938"
+                        },
+                        "imageVertical": "/upload/iblock/93d/g3w6kpx42b43zp0q5ho58ml691vct1ft.jpg",
+                        "promotions": [
+                            {
+                                "id": "4426938",
+                                "name": "akciya-noski-march-24_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 1
+                            }
+                        ],
+                        "url": "https://street-beat.ru/news/aktsiya-50-na-tsvetnye-noski/",
+                        "image": "/upload/iblock/714/c9eye2xyx9704e43xkxmwv5ufu3xpa2u.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4080896",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "eps-dec-2022_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 2,
+                            "dataCampaignId": "4080896",
+                            "id": "4080896"
+                        },
+                        "imageVertical": "/upload/iblock/f93/f936e4fd196f23b83264def74a9df78f.jpg",
+                        "promotions": [
+                            {
+                                "id": "4080896",
+                                "name": "eps-dec-2022_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 2
+                            }
+                        ],
+                        "url": "https://street-beat.ru/gift/",
+                        "image": "/upload/iblock/e01/e01f29f1788f8c7da8b60670783864b3.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4324542",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "street-beat-cheek_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 3,
+                            "dataCampaignId": "4324542",
+                            "id": "4324542"
+                        },
+                        "imageVertical": "/upload/iblock/8c8/der7pziy6meylmqrefk8ercvjwg2u75o.jpg",
+                        "promotions": [
+                            {
+                                "id": "4324542",
+                                "name": "street-beat-cheek_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 3
+                            }
+                        ],
+                        "url": "/cat/street-beat/cheek/",
+                        "image": "/upload/iblock/65c/h435dupv0i8rpydk4lbl1sua10839bw9.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4453754",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "reebok-floatzig-woman_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 4,
+                            "dataCampaignId": "4453754",
+                            "id": "4453754"
+                        },
+                        "imageVertical": "/upload/iblock/f00/opzc3ipuoj4088owfiifg529wghhilz6.jpg",
+                        "promotions": [
+                            {
+                                "id": "4453754",
+                                "name": "reebok-floatzig-woman_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 4
+                            }
+                        ],
+                        "url": "/cat/woman/obuv/krossovki/reebok/floatzig/",
+                        "image": "/upload/iblock/c2a/rjkudxi326p4mpyyegwfotbbxjyazcrm.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4323660",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "YouTube-slushay-otsuda_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 5,
+                            "dataCampaignId": "4323660",
+                            "id": "4323660"
+                        },
+                        "imageVertical": "/upload/iblock/a18/qzdosi9gane9yq4685vrfi9sg7mx1uoo.jpg",
+                        "promotions": [
+                            {
+                                "id": "4323660",
+                                "name": "YouTube-slushay-otsuda_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 5
+                            }
+                        ],
+                        "url": "https://youtu.be/Xc9F7aHWRCI?si=2CxjkiV9O6UdAc23",
+                        "image": "/upload/iblock/b75/ax320tg7mkafz5r5msu092v2rcd4933y.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4448558",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "dream-season-sb-woman-apr-24_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 6,
+                            "dataCampaignId": "4448558",
+                            "id": "4448558"
+                        },
+                        "imageVertical": "/upload/iblock/32c/3clbbyn1e8v5n3dat1s90oseadj4k0av.png",
+                        "promotions": [
+                            {
+                                "id": "4448558",
+                                "name": "dream-season-sb-woman-apr-24_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 6
+                            }
+                        ],
+                        "url": "https://street-beat.ru/promo/dream-season-2024/",
+                        "image": "/upload/iblock/8ca/lpgv3qt13mvyyvv0onhak6kenxcdsf3u.png",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4448298",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "reebok-atr-apr-24_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 7,
+                            "dataCampaignId": "4448298",
+                            "id": "4448298"
+                        },
+                        "imageVertical": "/upload/iblock/1f8/myb5d30t7o76r9qzrgfqt0h04m2vovus.jpg",
+                        "promotions": [
+                            {
+                                "id": "4448298",
+                                "name": "reebok-atr-apr-24_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 7
+                            }
+                        ],
+                        "url": "https://street-beat.ru/cat/reebok-atr-tag/",
+                        "image": "/upload/iblock/deb/2bf4c3i1w75x1rhmw4kpdcnje8hwkfea.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4466802",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "mss-sb-woman-june-24_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 8,
+                            "dataCampaignId": "4466802",
+                            "id": "4466802"
+                        },
+                        "imageVertical": "/upload/iblock/2c3/0hcvs4ihzf4up36you4buahmqlojcxdk.jpg",
+                        "promotions": [
+                            {
+                                "id": "4466802",
+                                "name": "mss-sb-woman-june-24_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 8
+                            }
+                        ],
+                        "url": "/cat/woman/sale/",
+                        "image": "/upload/iblock/95b/m2mk4o5nhz13lkv35z36vnnp7hbeumrv.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4464096",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "udvaivaem-bonusi-sb_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 9,
+                            "dataCampaignId": "4464096",
+                            "id": "4464096"
+                        },
+                        "imageVertical": null,
+                        "promotions": [
+                            {
+                                "id": "4464096",
+                                "name": "udvaivaem-bonusi-sb_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 9
+                            }
+                        ],
+                        "url": "/personal/bonus/dvojnye-bonusy-za-pokupki-streetbeat-i-hiker/",
+                        "image": "/upload/iblock/4be/ft3qloi0abofzg77yvytsdwzk11fakv1.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4464090",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "udvaivaem-bonusi-sb_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 10,
+                            "dataCampaignId": "4464090",
+                            "id": "4464090"
+                        },
+                        "imageVertical": "/upload/iblock/046/nzkfhbslwyd8vsvuxv3h871b3hvwvke2.jpg",
+                        "promotions": [
+                            {
+                                "id": "4464090",
+                                "name": "udvaivaem-bonusi-sb_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 10
+                            }
+                        ],
+                        "url": "/personal/bonus/dvojnye-bonusy-za-pokupki-streetbeat-i-hiker/",
+                        "image": "/upload/iblock/d71/8rqoewuxp9cz0kcwvim6x69zz73gjnf3.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "3751618",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "sneaker_spa_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 11,
+                            "dataCampaignId": "3751618",
+                            "id": "3751618"
+                        },
+                        "imageVertical": "/upload/iblock/b2b/okjli8zej2glekpqniljoshka39fh2hj.jpg",
+                        "promotions": [
+                            {
+                                "id": "3751618",
+                                "name": "sneaker_spa_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 11
+                            }
+                        ],
+                        "url": "/sneaker-spa/",
+                        "image": "/upload/iblock/e9f/0qllz2ebq7js23d7biczb2946srh89ej.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4137304",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "dolyami-feb_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 12,
+                            "dataCampaignId": "4137304",
+                            "id": "4137304"
+                        },
+                        "imageVertical": "/upload/iblock/dba/ijak0dqu648j1nxpn6fim00ph2t3owu2.jpg",
+                        "promotions": [
+                            {
+                                "id": "4137304",
+                                "name": "dolyami-feb_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 12
+                            }
+                        ],
+                        "url": "/blog/dolyame/",
+                        "image": "/upload/iblock/085/hj255kg0u915askeocnrhr7c0hvhx80w.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    },
+                    {
+                        "id": "4399144",
+                        "target": "_blank",
+                        "ddl": {
+                            "name": "solemate-2023-feb_woman_catalog_through_banner",
+                            "category": "Street Beat",
+                            "subcategory": "women_banner",
+                            "design": "Street Beat",
+                            "position": 13,
+                            "dataCampaignId": "4399144",
+                            "id": "4399144"
+                        },
+                        "imageVertical": "/upload/iblock/cfa/8kk2a9ajwnkf9bdhp5aekj20bvmfsjtb.jpg",
+                        "promotions": [
+                            {
+                                "id": "4399144",
+                                "name": "solemate-2023-feb_woman_catalog_through_banner",
+                                "creative": "women_banner",
+                                "position": 13
+                            }
+                        ],
+                        "url": "/cat/solemate/",
+                        "image": "/upload/iblock/c41/7458qblxb1v4k8hbneo4jp1qwjk1dh1e.jpg",
+                        "adInfo": null,
+                        "type": "bannerLong"
+                    }
+                ]
+            }
+        },
+        "pagination": {
+            "startPage": 1,
+            "numResults": 744,
+            "lastPage": 16,
+            "currentPage": 16,
+            "previousPage": 15,
+            "nextPage": 16,
+            "pageSize": 48
+        }
+    },
+    "seo": {
+        "h1": "женские кроссовки",
+        "title": "Женские кроссовки - страница 16",
+        "text": null,
+        "keywords": null,
+        "description": "Женские кроссовки - страница 16",
+        "uri": "/cat/woman/obuv/krossovki/?page=16"
+    },
+    "analytics": {
+        "ddl": {
+            "listing": {
+                "type": "listing",
+                "time": 1719567651,
+                "data": {
+                    "listId": "main",
+                    "listName": "category",
+                    "items": [
+                        {
+                            "id": "4191466",
+                            "skuCode": "4191466",
+                            "mpnGroupCode": "384858",
+                            "mpnCode": "38485801-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Женские кроссовки Kosmo Rider",
+                            "currency": "RUB",
+                            "unitPrice": 12999,
+                            "unitSalePrice": 6499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Kosmo Rider",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38485801/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/ea8/8odynp81nk2b5exhu0czp8iz50rxy4ho.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/ea8/8odynp81nk2b5exhu0czp8iz50rxy4ho.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 10,
+                            "conditions": [],
+                            "collection": "Kosmo Rider",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719567467
+                        },
+                        {
+                            "id": "4195096",
+                            "skuCode": "4195096",
+                            "mpnGroupCode": "383136",
+                            "mpnCode": "38408302-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Женские кроссовки PUMA Orkid ",
+                            "currency": "RUB",
+                            "unitPrice": 12999,
+                            "unitSalePrice": 6499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки PUMA Orkid ",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38408302/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/cec/7y12ki0wyks1ixssxtt2xls8sblsrzgq.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/cec/7y12ki0wyks1ixssxtt2xls8sblsrzgq.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 18,
+                            "conditions": [],
+                            "collection": "Orkid",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719566511
+                        },
+                        {
+                            "id": "4215044",
+                            "skuCode": "4215044",
+                            "mpnGroupCode": "388641",
+                            "mpnCode": "38864102-10.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Кроссовки PUMA Slipstream Hi Lux",
+                            "currency": "RUB",
+                            "unitPrice": 12999,
+                            "unitSalePrice": 6499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки PUMA Slipstream Hi Lux",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38864102/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/1da/6lensal1t554bnffxllp17krcu2e7agq.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/1da/6lensal1t554bnffxllp17krcu2e7agq.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 9,
+                            "conditions": [],
+                            "collection": "Slipstream",
+                            "gender": "Унисекс",
+                            "manufacturer": "PUMA",
+                            "generated": 1719566955
+                        },
+                        {
+                            "id": "4221744",
+                            "skuCode": "4221744",
+                            "mpnGroupCode": "club-c-extra-w",
+                            "mpnCode": "HQ2126-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Reebok Женские кроссовки Reebok Club C Extra",
+                            "currency": "RUB",
+                            "unitPrice": 11999,
+                            "unitSalePrice": 5999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Reebok Club C Extra",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-reebok-hq2126/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/ca4/uhoc6fnbywoo3jukzylpra5emnwvuwmv.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/ca4/uhoc6fnbywoo3jukzylpra5emnwvuwmv.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 15,
+                            "conditions": [],
+                            "collection": "Club C",
+                            "gender": "Женщины",
+                            "manufacturer": "Reebok",
+                            "generated": 1719564662
+                        },
+                        {
+                            "id": "4228000",
+                            "skuCode": "4228000",
+                            "mpnGroupCode": "W5740",
+                            "mpnCode": "W5740ESA-5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "New Balance Женские кроссовки New Balance 5740",
+                            "currency": "RUB",
+                            "unitPrice": 18999,
+                            "unitSalePrice": 9499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки New Balance 5740",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-new_balance-w5740esa/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/230/l51iunofd816dt7by61jipwy72jslzgy.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/230/l51iunofd816dt7by61jipwy72jslzgy.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 5,
+                            "conditions": [],
+                            "collection": "5740",
+                            "gender": "Женщины",
+                            "manufacturer": "New Balance",
+                            "generated": 1719566750
+                        },
+                        {
+                            "id": "4229948",
+                            "skuCode": "4229948",
+                            "mpnGroupCode": "1201A476",
+                            "mpnCode": "1201A476-101-36",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "ASICS Кроссовки EX89",
+                            "currency": "RUB",
+                            "unitPrice": 17999,
+                            "unitSalePrice": 8999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки EX89",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-asics-1201a476-101/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/232/joobotgn9l9c4jh3rajw8klz03h0aso3.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/232/joobotgn9l9c4jh3rajw8klz03h0aso3.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 1,
+                            "conditions": [],
+                            "collection": "EX89",
+                            "gender": "Унисекс",
+                            "manufacturer": "ASICS",
+                            "generated": 1719564863
+                        },
+                        {
+                            "id": "4231614",
+                            "skuCode": "4231614",
+                            "mpnGroupCode": "384463",
+                            "mpnCode": "38446301-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA PUMA Cali Dream RE:Collection",
+                            "currency": "RUB",
+                            "unitPrice": 11999,
+                            "unitSalePrice": 5999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "PUMA Cali Dream RE:Collection",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38446301/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/4e9/wy83kyzx9se1xmfvh6344yb78bre5b9t.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/4e9/wy83kyzx9se1xmfvh6344yb78bre5b9t.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 39,
+                            "conditions": [],
+                            "collection": "Cali",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719564359
+                        },
+                        {
+                            "id": "4240150",
+                            "skuCode": "4240150",
+                            "mpnGroupCode": "club-c-85-w",
+                            "mpnCode": "IE1595-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Reebok Женские кроссовки Club C 85 Vintage",
+                            "currency": "RUB",
+                            "unitPrice": 13499,
+                            "unitSalePrice": 6699,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Club C 85 Vintage",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-reebok-ie1595/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/b47/nez7igzfaioy274yd5yzow9yfenkzy49.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/b47/nez7igzfaioy274yd5yzow9yfenkzy49.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 7,
+                            "conditions": [],
+                            "collection": "Club C 85",
+                            "gender": "Женщины",
+                            "manufacturer": "Reebok",
+                            "generated": 1719567467
+                        },
+                        {
+                            "id": "4246290",
+                            "skuCode": "4246290",
+                            "mpnGroupCode": "GY41",
+                            "mpnCode": "GY4110-10.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "adidas Кроссовки adidas Yeezy 450 ",
+                            "currency": "RUB",
+                            "unitPrice": 18999,
+                            "unitSalePrice": 11399,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки adidas Yeezy 450 ",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-adidas-originals-gy4110/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/f8d/kr10eurkvxam0eyroaxxzkq7req7kohc.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/f8d/kr10eurkvxam0eyroaxxzkq7req7kohc.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 11,
+                            "conditions": [],
+                            "gender": "Унисекс",
+                            "manufacturer": "adidas",
+                            "generated": 1719567150
+                        },
+                        {
+                            "id": "4262478",
+                            "skuCode": "4262478",
+                            "mpnGroupCode": "FB1298",
+                            "mpnCode": "FB1298-600-6",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Nike Женские кроссовки Waffle One Essential",
+                            "currency": "RUB",
+                            "unitPrice": 14999,
+                            "unitSalePrice": 7499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Waffle One Essential",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-nike-fb1298-600/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/af4/udv12y8x9fm7u52u7p5pibuqv1ssx38k.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/af4/udv12y8x9fm7u52u7p5pibuqv1ssx38k.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 6,
+                            "conditions": [],
+                            "collection": "Waffle",
+                            "gender": "Женщины",
+                            "manufacturer": "Nike",
+                            "generated": 1719565825
+                        },
+                        {
+                            "id": "4262564",
+                            "skuCode": "4262564",
+                            "mpnGroupCode": "SNKW20021",
+                            "mpnCode": "SNKW20021-100-36",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "STREETBEAT Женские кроссовки Streetbeat Atlanta",
+                            "currency": "RUB",
+                            "unitPrice": 7499,
+                            "unitSalePrice": 3699,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Streetbeat Atlanta",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-street-beat-snkw20021-100/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/474/7j590251o6d6h0qn3wfvu9vrexhqbhrg.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/474/7j590251o6d6h0qn3wfvu9vrexhqbhrg.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 217,
+                            "conditions": [],
+                            "collection": "Atlanta",
+                            "gender": "Женщины",
+                            "manufacturer": "STREETBEAT",
+                            "generated": 1719567606
+                        },
+                        {
+                            "id": "4284536",
+                            "skuCode": "4284536",
+                            "mpnGroupCode": "389853",
+                            "mpnCode": "38985301-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Женские кроссовки PUMA Mayze Stack ",
+                            "currency": "RUB",
+                            "unitPrice": 12999,
+                            "unitSalePrice": 6499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки PUMA Mayze Stack ",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38985301/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/306/6049wiwk4in1ou1e8p1ayrszwc1nt1jd.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/306/6049wiwk4in1ou1e8p1ayrszwc1nt1jd.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 6,
+                            "conditions": [],
+                            "collection": "Mayze",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719564900
+                        },
+                        {
+                            "id": "4306070",
+                            "skuCode": "4306070",
+                            "mpnGroupCode": "DQ7572",
+                            "mpnCode": "DQ7572-200-6",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Nike Женские кроссовки Blazer Mid Premium",
+                            "currency": "RUB",
+                            "unitPrice": 18999,
+                            "unitSalePrice": 9499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Blazer Mid Premium",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-nike-dq7572-200/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/b88/f10h4ir8ikyxe4m4dgabc29rbobzw572.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/b88/f10h4ir8ikyxe4m4dgabc29rbobzw572.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 32,
+                            "conditions": [],
+                            "collection": "Blazer",
+                            "gender": "Женщины",
+                            "manufacturer": "Nike",
+                            "generated": 1719564100
+                        },
+                        {
+                            "id": "4307756",
+                            "skuCode": "4307756",
+                            "mpnGroupCode": "390776",
+                            "mpnCode": "39077604-10.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Кроссовки PUMA RS-X Efekt",
+                            "currency": "RUB",
+                            "unitPrice": 15999,
+                            "unitSalePrice": 7999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки PUMA RS-X Efekt",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-39077604/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/dad/46nzpytprs131n3208r5ptzffo1orc30.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/dad/46nzpytprs131n3208r5ptzffo1orc30.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 14,
+                            "conditions": [],
+                            "collection": "RS-X",
+                            "gender": "Унисекс",
+                            "manufacturer": "PUMA",
+                            "generated": 1719564793
+                        },
+                        {
+                            "id": "4307762",
+                            "skuCode": "4307762",
+                            "mpnGroupCode": "392111",
+                            "mpnCode": "39211101-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Женские кроссовки PUMA RS-X Efekt ",
+                            "currency": "RUB",
+                            "unitPrice": 15999,
+                            "unitSalePrice": 9599,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки PUMA RS-X Efekt ",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-39211101/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/e26/jd6yu5a3iikf2c96188mi0peqia196z1.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/e26/jd6yu5a3iikf2c96188mi0peqia196z1.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 2,
+                            "conditions": [],
+                            "collection": "RS-X",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719565099
+                        },
+                        {
+                            "id": "4315582",
+                            "skuCode": "4315582",
+                            "mpnGroupCode": "club-c-extra-w",
+                            "mpnCode": "100033105-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Reebok Женские кроссовки Reebok Club C Extra",
+                            "currency": "RUB",
+                            "unitPrice": 13999,
+                            "unitSalePrice": 6999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Reebok Club C Extra",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-reebok-100033105/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/9d6/ojkbgcymb5chibgtgguoxieee2jilvp9.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/9d6/ojkbgcymb5chibgtgguoxieee2jilvp9.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 27,
+                            "conditions": [],
+                            "collection": "Club C",
+                            "gender": "Женщины",
+                            "manufacturer": "Reebok",
+                            "generated": 1719566511
+                        },
+                        {
+                            "id": "4330332",
+                            "skuCode": "4330332",
+                            "mpnGroupCode": "DH5128",
+                            "mpnCode": "DH5128-101-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Nike Женские кроссовки Air Max Bliss",
+                            "currency": "RUB",
+                            "unitPrice": 21999,
+                            "unitSalePrice": 10999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Air Max Bliss",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-nike-dh5128-101/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/ac1/tq2j8npy4mugwmb31cxp14kib2nn35kr.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/ac1/tq2j8npy4mugwmb31cxp14kib2nn35kr.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 4,
+                            "conditions": [],
+                            "collection": "Air Max",
+                            "gender": "Женщины",
+                            "manufacturer": "Nike",
+                            "generated": 1719566511
+                        },
+                        {
+                            "id": "3530376",
+                            "skuCode": "3530376",
+                            "mpnGroupCode": "380696",
+                            "mpnCode": "38069602-10.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Кроссовки Mirage Sport",
+                            "currency": "RUB",
+                            "unitPrice": 12999,
+                            "unitSalePrice": 6499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки Mirage Sport",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38069602/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/bf2/6etkolk5g47z4vzg82h3cily0x2z3fo9.JPG",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/bf2/6etkolk5g47z4vzg82h3cily0x2z3fo9.JPG",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 1,
+                            "conditions": [],
+                            "collection": "Mirage",
+                            "gender": "Унисекс",
+                            "manufacturer": "PUMA",
+                            "generated": 1719566919
+                        },
+                        {
+                            "id": "3576028",
+                            "skuCode": "3576028",
+                            "mpnGroupCode": "H6869",
+                            "mpnCode": "H68693-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Reebok Женские кроссовки Club C Revenge",
+                            "currency": "RUB",
+                            "unitPrice": 9999,
+                            "unitSalePrice": 4999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Club C Revenge",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-reebok-h68693/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/2eb/39yfpybcbrjv9v2szzb74s77d7yq5q9i.JPG",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/2eb/39yfpybcbrjv9v2szzb74s77d7yq5q9i.JPG",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 2,
+                            "conditions": [],
+                            "collection": "Club C 85",
+                            "gender": "Женщины",
+                            "manufacturer": "Reebok",
+                            "generated": 1719567448
+                        },
+                        {
+                            "id": "3702297",
+                            "skuCode": "3702297",
+                            "mpnGroupCode": "DC2533",
+                            "mpnCode": "DC2533-002-5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "Nike Женские кроссовки Nike Waffle One",
+                            "currency": "RUB",
+                            "unitPrice": 12499,
+                            "unitSalePrice": 6299,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Nike Waffle One",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-nike-dc2533-002/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/362/skv6ayvrimby8u0vwhayr7n7rd1qyso3.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/362/skv6ayvrimby8u0vwhayr7n7rd1qyso3.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 4,
+                            "conditions": [],
+                            "collection": "Waffle",
+                            "gender": "Женщины",
+                            "manufacturer": "Nike",
+                            "generated": 1719566098
+                        },
+                        {
+                            "id": "3879506",
+                            "skuCode": "3879506",
+                            "mpnGroupCode": "CW997HL",
+                            "mpnCode": "CW997HLV/B-5.5",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "New Balance Женские кроссовки 997",
+                            "currency": "RUB",
+                            "unitPrice": 18999,
+                            "unitSalePrice": 9499,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки 997",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-new_balance-cw997hlv-b/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/511/qdlvh1n222vtlqwd37c00n4regojd485.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/511/qdlvh1n222vtlqwd37c00n4regojd485.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 10,
+                            "conditions": [],
+                            "collection": "997",
+                            "gender": "Женщины",
+                            "manufacturer": "New Balance",
+                            "generated": 1719566750
+                        },
+                        {
+                            "id": "3886170",
+                            "skuCode": "3886170",
+                            "mpnGroupCode": "384046",
+                            "mpnCode": "38404601-3.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Женские кроссовки Kosmo Rider",
+                            "currency": "RUB",
+                            "unitPrice": 13499,
+                            "unitSalePrice": 6699,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Kosmo Rider",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38404601/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/79c/2aw6r7w293o4qyyyyz55xkuuc28613dy.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/79c/2aw6r7w293o4qyyyyz55xkuuc28613dy.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 1,
+                            "conditions": [],
+                            "collection": "Kosmo Rider",
+                            "gender": "Женщины",
+                            "manufacturer": "PUMA",
+                            "generated": 1719567627
+                        },
+                        {
+                            "id": "3922834",
+                            "skuCode": "3922834",
+                            "mpnGroupCode": "383526",
+                            "mpnCode": "38352602-10.5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "PUMA Кроссовки Blaze of Glory Premium",
+                            "currency": "RUB",
+                            "unitPrice": 17999,
+                            "unitSalePrice": 12599,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Кроссовки Blaze of Glory Premium",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-puma-38352602/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/5e6/o103szmfdcgeckkt851ccz9g03cx1i23.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/5e6/o103szmfdcgeckkt851ccz9g03cx1i23.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 9,
+                            "conditions": [],
+                            "collection": "Blaze of Glory",
+                            "gender": "Унисекс",
+                            "manufacturer": "PUMA",
+                            "generated": 1719567626
+                        },
+                        {
+                            "id": "4003804",
+                            "skuCode": "4003804",
+                            "mpnGroupCode": "H00250",
+                            "mpnCode": "H00250-5K",
+                            "categoryGroupId": 200,
+                            "categoryIdGmc": 300,
+                            "name": "adidas Женские кроссовки Niteball",
+                            "currency": "RUB",
+                            "unitPrice": 19999,
+                            "unitSalePrice": 11999,
+                            "category": [
+                                "Каталог",
+                                "Обувь",
+                                "Кроссовки"
+                            ],
+                            "categoryId": "1323",
+                            "description": null,
+                            "variant": "Женские кроссовки Niteball",
+                            "size": "",
+                            "lowestCategory": "Кроссовки",
+                            "lowestCategoryId": 1323,
+                            "url": "https://street-beat.ru/d/krossovki-adidas-originals-h00250/",
+                            "imageUrl": "https://street-beat.ru/upload/iblock/672/i2hzmkpj2tj8zesf9zs4caa33wm4a7fv.jpg",
+                            "thumbnailUrl": "https://street-beat.ru/upload/iblock/672/i2hzmkpj2tj8zesf9zs4caa33wm4a7fv.jpg",
+                            "reviews": [],
+                            "rating": 0,
+                            "stock": 1,
+                            "conditions": [],
+                            "collection": "Niteball",
+                            "gender": "Женщины",
+                            "manufacturer": "adidas",
+                            "generated": 1719567556
+                        }
+                    ],
+                    "resultCount": 744,
+                    "pagesCount": 16,
+                    "currentPage": 16,
+                    "sortBy": "Сначала популярные",
+                    "categoryId": "1323",
+                    "category": [
+                        "женские кроссовки"
+                    ]
+                },
+                "extraData": {
+                    "type": "page",
+                    "time": 1719567651,
+                    "data": {
+                        "type": "listing",
+                        "breadcrumb": [
+                            "женские кроссовки"
+                        ],
+                        "category": "Category Listing",
+                        "typeName": "Страница товарной категории",
+                        "breadcrumbs": [
+                            "женские кроссовки"
+                        ],
+                        "path": null,
+                        "referrer": "https://street-beat.ru/",
+                        "title": "Женские кроссовки - страница 16",
+                        "url": "https://street-beat.ru"
+                    }
+                }
+            },
+            "page": {
+                "type": "page",
+                "time": 1719567651,
+                "data": {
+                    "type": "listing",
+                    "breadcrumb": [
+                        "женские кроссовки"
+                    ],
+                    "category": "Category Listing",
+                    "typeName": "Страница товарной категории",
+                    "breadcrumbs": [
+                        "женские кроссовки"
+                    ],
+                    "path": null,
+                    "referrer": "https://street-beat.ru/",
+                    "title": "Женские кроссовки - страница 16",
+                    "url": "https://street-beat.ru"
+                }
+            },
+            "events": {
+                "ViewedPage": {
+                    "timestamp": 1719567651
+                }
+            },
+            "type": "listOfDDL"
+        }
+    }
+}
