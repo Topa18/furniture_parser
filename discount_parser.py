@@ -165,7 +165,7 @@ def get_data(fn):
         for item in sneakers_at_page:
         
         # Проверка карточки товара на подлинность
-            if item.get('price'):
+            if item.get('price') and item.get('sizes'):
                 rec_price = item.get('price').get('recommended').get('price')
                 special_price = item.get('price').get('special').get('price')
             
@@ -201,20 +201,19 @@ def get_data(fn):
     
     sneakers_count = len(sneakers_for_sale)
 
-    return print(f"Сбор данных завершен. Найдено позиций по скидке: {sneakers_count}")
+    return print(f"Найдено кроссовок по скидке: {sneakers_count}")
                 
 
-def main():
+# def main(woman=False):
 
-    get_data(get_page_count(woman=True))
+#     get_data(get_page_count(woman))
 
 
-if __name__ == "__main__":
-    try:
-        main()
-    except Exception as e:
-        print(f"Ошибка... {e}")
-        
+# try:
+#     main()
+# except Exception as e:
+#     print(f"Ошибка... {e}")
+    
 
 
 
